@@ -1,5 +1,5 @@
 const handler = require('../handler');
  
 test('correct greeting is generated', () => {
-  expect(handler.printHelloWorld()).toBe("Hello World134234");
+  expect(handler.printHelloWorld()).toBe("Hello World1");
 });
